@@ -1,1 +1,1 @@
-# CoreoPltaform
+# CoreoPlatform
